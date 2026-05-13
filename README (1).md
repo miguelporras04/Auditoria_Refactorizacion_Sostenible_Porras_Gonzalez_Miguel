@@ -32,15 +32,15 @@ Medicion Inicial:
 	
 Para ordenador:
 
-<img width="528" height="504" alt="Captura de pantalla 2026-05-13 130634" src="https://github.com/user-attachments/assets/3422e571-72f2-42bb-921d-3e25898765ca" />
+<img width="546" height="514" alt="image" src="https://github.com/user-attachments/assets/a2ebb48b-34e9-4335-a1c3-b9fa3ea7477b" />
 
 Para movil:
 
-<img width="535" height="560" alt="Captura de pantalla 2026-05-13 132948" src="https://github.com/user-attachments/assets/77931ccb-b69c-48a2-8bbc-ab91adc5f9e2" />
+<img width="550" height="523" alt="Captura de pantalla 2026-05-13 134308" src="https://github.com/user-attachments/assets/7c585ee6-647d-4471-bb1a-149efaffa3a1" />
 
 Identificacion de Bloatware:
 
-<img width="541" height="66" alt="Captura de pantalla 2026-05-13 131712" src="https://github.com/user-attachments/assets/963696e1-20a1-4353-bb2b-bf08cd07127f" />
+<img width="538" height="67" alt="Captura de pantalla 2026-05-13 134500" src="https://github.com/user-attachments/assets/b048c8f9-d6ab-45ed-9202-cf0f0f390539" />
 
 Analisis:
 
