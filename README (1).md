@@ -28,6 +28,8 @@ Sostenibilidad Aplicada a los
 # La empresa elegida es: Domino’s Pizza
 
 # Fase 1: Inventario y Dimensión Ambiental (A) {#fase-1:-inventario-y-dimensión-ambiental-(a)}
+<img width="528" height="504" alt="Captura de pantalla 2026-05-13 130634" src="https://github.com/user-attachments/assets/3422e571-72f2-42bb-921d-3e25898765ca" />
+
 
 # Fase 2: Dimensión Social y Equidad (S) {#fase-2:-dimensión-social-y-equidad-(s)}
 
