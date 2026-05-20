@@ -59,16 +59,18 @@ Sí sufre de inflación de software, la web utiliza una tecnología totalmente s
 </strong>
 
 <strong>Identificación de barreras:
+</strong>
 
 Los colores de fondo y primer plano no tienen un contraste suficiente y los enlaces no tienen un nombre identificable
 
-</strong>
-
-
 # Fase 3: Dimensión de Gobernanza y Ética (G) {#fase-3:-dimensión-de-gobernanza-y-ética-(g)}
 <strong>Transparencia:
+
+<img width="523" height="288" alt="image" src="https://github.com/user-attachments/assets/b130bd7e-1c4f-4d07-9c8f-18df51e24f1f" />
+
 </strong>
 
+Si es facil recharzarlas y si las rechazas no te pone ningun inconveniente
 
 <strong>Datos innecesarios:
 </strong>
