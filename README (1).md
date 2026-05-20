@@ -25,7 +25,7 @@ Sostenibilidad Aplicada a los
 
 [**Fase 4: Propuesta de Refactorización (Green Coding)	3**](#fase-4:-propuesta-de-refactorización-\(green-coding\))
 
-# La empresa elegida es: Domino’s Pizza
+# La empresa elegida es: Cafeteria Bar Marbella
 
 # Fase 1: Inventario y Dimensión Ambiental (A) {#fase-1:-inventario-y-dimensión-ambiental-(a)}
 <strong>Medicion Inicial:
