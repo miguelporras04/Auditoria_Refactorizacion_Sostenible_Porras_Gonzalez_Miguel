@@ -81,12 +81,14 @@ No, no pide ninguna dato innecesario, ya que no te pide ninguna dato personal y 
 
 <strong>Optimización de activos:
 	</strong>
-
+	
 ¿Qué formatos usarías para sustituir las imágenes actuales (ej. WebP, AVIF)?
+
+Sustituir los formatos tradicionales por WebP como estándar general (ahorra hasta un 30% de peso)  y AVIF para las imágenes principales de la cabecera y el fondo porque este formato tiene mayor compresión de color sin pérdida de calidad
 	
 ¿Implementarías Lazy Loading?
 	
-Si, ya que eso siempre es bueno implementarlo porque cargar toda la web cuando alomejor no la vas a ver entera es un consumo de recursos innecesario 
+Sí, lo implementaria de forma nativa para que las imágenes que quedan  fuera de la pantalla inicial, como las fotos del blog  o la galería de platos, las imágenes de la carta solo se descargarán si el usuario hace scroll hacia ellas
 
 <strong>Reducción de peticiones:
 </strong>
