@@ -75,6 +75,7 @@ Si es facil recharzarlas y si las rechazas no te pone ningun inconveniente
 <strong>Datos innecesarios:
 </strong>
 
+No, no pide ninguna dato innecesario, ya que no te pide ninguna dato personal y ningun tipo de forma de contactar con el usuario
 
 # Fase 4: Propuesta de Refactorización (Green Coding) {#fase-4:-propuesta-de-refactorización-(green-coding)}
 
