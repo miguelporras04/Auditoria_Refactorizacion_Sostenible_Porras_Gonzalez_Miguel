@@ -44,7 +44,10 @@ Para movil:
 
 <img width="538" height="67" alt="Captura de pantalla 2026-05-13 134500" src="https://github.com/user-attachments/assets/b048c8f9-d6ab-45ed-9202-cf0f0f390539" />
 
-<strong>Analisis:
+<strong>Analisis: 
+
+Sí sufre de inflación de software, la web utiliza una tecnología totalmente sobredimensionada (un CMS pesado como WordPress, maquetadores visuales y scripts de rastreo complejos) y eso obliga al usuario a descargar megabytes de código y cookies innecesarias
+
 </strong>
 
 
