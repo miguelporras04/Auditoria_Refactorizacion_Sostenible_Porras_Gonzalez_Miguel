@@ -53,9 +53,15 @@ Sí sufre de inflación de software, la web utiliza una tecnología totalmente s
 
 # Fase 2: Dimensión Social y Equidad (S) {#fase-2:-dimensión-social-y-equidad-(s)}
 <strong>Test de Accesibilidad:
+
+<img width="526" height="305" alt="image" src="https://github.com/user-attachments/assets/2b466bcc-e97b-46fd-bb4b-ac32fcadba31" />
+
 </strong>
 
 <strong>Identificación de barreras:
+
+Los colores de fondo y primer plano no tienen un contraste suficiente y los enlaces no tienen un nombre identificable
+
 </strong>
 
 
